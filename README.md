@@ -3,9 +3,13 @@
 <table>
   <tr>
     <td valign="center">
+      
       🎓 I am currently pursuing my **Bachelor's in Computer engineering**.
-      🌱 I am currently learning **JS** and also interested in **Web Development**.
+      
+      🌱 I am currently learning **AVA** and also interested in *Software Development**.
+      
       🎯 My Goal is to Contribute to an incredible new Web **projects** as possible.
+      
     </td>
 <td>
       <img src="https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg?itok=D8qgVwxb" width="500" height="225"/></a>
